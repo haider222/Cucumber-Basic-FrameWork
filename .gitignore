@@ -1,0 +1,7 @@
+/.idea
+/Log4j
+/Reports
+/target
+*.iml
+/debug.log
+/test-output
